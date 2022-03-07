@@ -5,8 +5,8 @@ export default defineUserConfig<DefaultThemeOptions>({
   // 站点配置
   title: 'Hello VuePress',
   description: 'Just playing around',
-  
-  base: '/front-end/',
+
+  base: '/Front-End/',
   
   // 主题和它的配置
   theme: '@vuepress/theme-default',
