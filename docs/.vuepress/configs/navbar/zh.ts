@@ -25,6 +25,10 @@ export const zh: NavbarConfig = [
     link: '/javascript/'
   },
   {
+    text: 'Interview',
+    link: '/interview/'
+  },
+  {
     text: '完整目录',
     children: [
       {
