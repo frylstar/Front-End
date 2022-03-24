@@ -9,6 +9,8 @@ export const zh: SidebarConfig = {
   ],
   '/javascript/': [
     '/javascript/README.md',
+    '/javascript/utils.md',
+    '/javascript/FAQ.md',
   ],
   '/topic/': [
     {
